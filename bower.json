@@ -1,0 +1,10 @@
+{
+  "name": "backbone.sharepoint",
+  "version": "0.1.0",
+  "main": "backbone-sharepoint.odata.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
